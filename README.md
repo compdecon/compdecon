@@ -10,7 +10,8 @@
 
   https://compdecon.org/
 
-  https://compdecon.github.io/
+  https://compdecon.github.io/ (404 at the moment)
+  https://compdecon.github.io/index.html (works but WIP)
 
 - 👋 Hi, I’m @compdecon, I represent the CDL Makerspace in Wall NJ.
 - 👀 I’m interested in pretty much everything S. :-)
