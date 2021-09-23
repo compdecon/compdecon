@@ -8,6 +8,8 @@
   Wall Township, New Jersey 07719
 ```
 
+![View of the IXR lab](https://compdecon.github.io/images/homepage_02.jpg)
+
   https://compdecon.github.io/
 
   https://compdecon.org/
