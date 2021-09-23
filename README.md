@@ -8,16 +8,16 @@
   Wall Township, New Jersey 07719
 ```
 
+  https://compdecon.github.io/
+
   https://compdecon.org/
 
-  https://compdecon.github.io/ (404 at the moment)
-  https://compdecon.github.io/index.html (works but WIP)
-
-- 👋 Hi, I’m @compdecon, I represent the CDL Makerspace in Wall NJ.
+- 👋 Hi, I’m email: [Neil Cherry](mailto:neil.cherry@compdecon?subject=RE:CDL Makerspace), I represent the CDL Makerspace in Wall NJ.
 - 👀 I’m interested in pretty much everything. :-)
+  - My main interest is Smart Home/Home Automation but the makespace covers more.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... temporary email: cdl@linuxha.com
+- 📫 How to reach me ... temporary email: [Neil Cherry](mailto:neil.cherry@compdecon?subject=RE:CDL Makerspace)
 
 From Space to Arduinos, Donkey cars to TensorFlow, Smart Homes to IoT. It's all over the place.
 
