@@ -12,12 +12,12 @@
 
   https://compdecon.org/
 
-- 👋 Hi, I’m email: [Neil Cherry](mailto:neil.cherry@compdecon?subject=RE:CDL Makerspace), I represent the CDL Makerspace in Wall NJ.
+- 👋 Hi, my name is Neil Cherry, I represent the CDL Makerspace in Wall NJ.
 - 👀 I’m interested in pretty much everything. :-)
   - My main interest is Smart Home/Home Automation but the makespace covers more.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... well that seems to change by the minutes. :-)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... temporary email: [Neil Cherry](mailto:neil.cherry@compdecon?subject=RE:CDL Makerspace)
+- 📫 How to reach me ... temporary email: neil.cherry@compdecon
 
 From Space to Arduinos, Donkey cars to TensorFlow, Smart Homes to IoT. It's all over the place.
 
