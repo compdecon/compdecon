@@ -19,7 +19,7 @@
   - My main interest is Smart Home/Home Automation but the makespace covers more.
 - 🌱 I’m currently learning ... well that seems to change by the minutes. :-)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... temporary email: neil.cherry@compdecon
+- 📫 How to reach me ... temporary email: neil.cherry@compdecon.org
 
 From Space to Arduinos, Donkey cars to TensorFlow, Smart Homes to IoT. It's all over the place.
 
